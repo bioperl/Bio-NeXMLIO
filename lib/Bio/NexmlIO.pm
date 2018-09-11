@@ -107,6 +107,7 @@ methods. Internal methods are usually preceded with a _
 
 
 package Bio::NexmlIO;
+
 use strict;
 #TODO Change this
 use lib '..';

@@ -78,6 +78,7 @@ Internal methods are usually preceded with a _
 
 package Bio::Nexml::Factory;
 
+
 use strict;
 
 BEGIN {

@@ -71,6 +71,7 @@ Internal methods are usually preceded with a _
 # Let the code begin...
 
 package Bio::TreeIO::nexml;
+
 use strict;
 
 use lib '../..';

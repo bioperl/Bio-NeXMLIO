@@ -60,6 +60,7 @@ methods. Internal methods are usually preceded with a _
 
 package Bio::AlignIO::nexml;
 
+
 use strict;
 use lib '../..';
 use Bio::Nexml::Factory;
